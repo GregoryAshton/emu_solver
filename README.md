@@ -1,3 +1,3 @@
 # Emu solver
 
-Emu solver is a pakcage to solve quantum systems numerically.
+Emu solver is a package to solve quantum systems numerically.
